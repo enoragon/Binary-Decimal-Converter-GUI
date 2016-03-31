@@ -2,7 +2,6 @@ import pygame
 import graphics
 import gui_base
 from CONSTANTS import *
-import inputbox
 
 
 
